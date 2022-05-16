@@ -1,0 +1,45 @@
+body {
+    background-color: #F9F8E8;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+}
+
+h2 {
+    font-family: "Garamond", serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+h3 {
+    font-family: "Garamond", serif;
+}
+
+p {
+    font-family: "Garamond", serif;
+}
+
+.title {
+    font-family: "Courier New", monospace;
+}
+
+#note {
+    font-style: italic;
+}
+
+#position {
+    position: absolute;
+}
+
+button {
+    color: blue;
+}
+
+button:hover {
+    color: red;
+}
+
+div {
+    position: relative;
+}
